@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AjinthKumar&label=CORE%20ACCESS%20LOG&color=00F5FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ajinth911&label=CORE%20ACCESS%20LOG&color=00F5FF&style=for-the-badge)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=050505)
 ![Uptime](https://img.shields.io/badge/UPTIME-24%2F7-A020F0?style=for-the-badge&labelColor=050505)
 ![Mode](https://img.shields.io/badge/MODE-AUTONOMOUS-FF7A00?style=for-the-badge&labelColor=050505)
@@ -227,11 +227,11 @@ Image Synthesis · Modern Frontend
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AjinthKumar&show_icons=true&theme=chartreuse-dark&bg_color=050505&title_color=00F5FF&icon_color=A020F0&text_color=FFFFFF&border_color=0088FF&hide_border=false" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AjinthKumar&theme=dark&background=050505&border=0088FF&stroke=00F5FF&ring=A020F0&fire=FF7A00&currStreakLabel=00F5FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ajinth911&show_icons=true&theme=chartreuse-dark&bg_color=050505&title_color=00F5FF&icon_color=A020F0&text_color=FFFFFF&border_color=0088FF&hide_border=false" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajinth911&theme=dark&background=050505&border=0088FF&stroke=00F5FF&ring=A020F0&fire=FF7A00&currStreakLabel=00F5FF" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjinthKumar&layout=compact&theme=chartreuse-dark&bg_color=050505&title_color=00F5FF&text_color=FFFFFF&border_color=0088FF&hide_border=false" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AjinthKumar&theme=react-dark&bg_color=050505&color=00F5FF&line=A020F0&point=FF7A00&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinth911&layout=compact&theme=chartreuse-dark&bg_color=050505&title_color=00F5FF&text_color=FFFFFF&border_color=0088FF&hide_border=false" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajinth911&theme=react-dark&bg_color=050505&color=00F5FF&line=A020F0&point=FF7A00&hide_border=true" width="49%"/>
 
 </div>
 
@@ -239,7 +239,7 @@ Image Synthesis · Modern Frontend
 
 ### 🏆 Trophy Case
 
-<img src="https://github-profile-trophy.vercel.app/?username=AjinthKumar&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Stars,Repositories,Followers,PullRequest,Issues,MultipleYears"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ajinth911&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Stars,Repositories,Followers,PullRequest,Issues,MultipleYears"/>
 
 </div>
 
@@ -247,7 +247,7 @@ Image Synthesis · Modern Frontend
 
 ### 🐍 Contribution Feed — Neural Snake
 
-<img src="https://raw.githubusercontent.com/AjinthKumar/AjinthKumar/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/ajinth911/ajinth911/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 <sub>Generated via the <code>Platane/snk</code> GitHub Action — add the workflow to your repo to activate this feed.</sub>
 
@@ -308,7 +308,7 @@ Image Synthesis · Modern Frontend
 
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=00F5FF&label=UPLINK&labelColor=050505&color=050505"/></a>
 <a href="https://linkedin.com/in/ajinth-kumar"><img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=0088FF&label=NETWORK&labelColor=050505&color=050505"/></a>
-<a href="https://github.com/AjinthKumar"><img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=A020F0&label=REPO&labelColor=050505&color=050505"/></a>
+<a href="https://github.com/ajinth911"><img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=A020F0&label=REPO&labelColor=050505&color=050505"/></a>
 <a href="https://twitter.com/ajinthkumar"><img src="https://img.shields.io/badge/X-050505?style=for-the-badge&logo=x&logoColor=FF7A00&label=SIGNAL&labelColor=050505&color=050505"/></a>
 
 ```
@@ -325,6 +325,6 @@ Image Synthesis · Modern Frontend
 
 `SYSTEM MESSAGE:` thanks for visiting the core — star a repo, drop a message, or fork a mission. 🛸
 
-![Visitors](https://img.shields.io/badge/dynamic/json?color=00F5FF&label=NEURAL%20LINKS%20FORMED&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FAjinthKumar%2Fprofile&style=for-the-badge&labelColor=050505)
+![Visitors](https://img.shields.io/badge/dynamic/json?color=00F5FF&label=NEURAL%20LINKS%20FORMED&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fajinth911%2Fprofile&style=for-the-badge&labelColor=050505)
 
 </div>
