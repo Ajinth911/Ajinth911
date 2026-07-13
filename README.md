@@ -225,15 +225,15 @@ Image Synthesis · Modern Frontend
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajinth911&show_icons=true&theme=chartreuse-dark&bg_color=050505&title_color=00F5FF&icon_color=A020F0&text_color=FFFFFF&border_color=0088FF&hide_border=false" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=ajinth911&show_icons=true&theme=chartreuse-dark&bg_color=050505&title_color=00F5FF&icon_color=A020F0&text_color=FFFFFF&border_color=0088FF&hide_border=false" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajinth911&theme=dark&background=050505&border=0088FF&stroke=00F5FF&ring=A020F0&fire=FF7A00&currStreakLabel=00F5FF" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinth911&layout=compact&theme=chartreuse-dark&bg_color=050505&title_color=00F5FF&text_color=FFFFFF&border_color=0088FF&hide_border=false" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ajinth911&layout=compact&theme=chartreuse-dark&bg_color=050505&title_color=00F5FF&text_color=FFFFFF&border_color=0088FF&hide_border=false" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajinth911&theme=react-dark&bg_color=050505&color=00F5FF&line=A020F0&point=FF7A00&hide_border=true" width="49%"/>
 
 <br/>
 
-<sub>⚠ If the stats/top-langs cards above show broken — that's a known intermittent outage on the shared public instance, not your README. Reliable fallback badges below always work:</sub>
+<sub>⚠ These two cards now use <code>github-stats-extended.vercel.app</code>, the actively maintained successor to the original (now unstable) <code>github-readme-stats</code> project. If they ever break, the badges below still work as a fallback:</sub>
 
 <br/>
 
