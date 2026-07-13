@@ -1,23 +1,30 @@
 <!--
   AJINTH KUMAR — GITHUB PROFILE README
-  Replace "ajinthkumar" with your GitHub username and update
-  the contact links marked with 🔧.
+
+  This version uses custom-built SVG graphics in ./assets/ instead of
+  generic third-party badge generators, for a more bespoke, premium look.
+
+  SETUP:
+  1. Create a repo named exactly like your GitHub username (ajinthkumar/ajinthkumar).
+  2. Put this README.md at the root, and keep the assets/ folder alongside it
+     (assets/hero-banner.svg, divider.svg, skills-radar.svg, stat-strip.svg).
+  3. Replace every "ajinthkumar" below with your real username, and update
+     the links marked with 🔧.
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0F,100:1E1B4B&height=200&text=AJINTH%20KUMAR&fontSize=42&fontColor=E5E7EB&fontAlignY=42&desc=AI%20Engineer%20/%20Full%20Stack%20Developer%20/%20ML%20Engineer&descAlignY=62&descSize=14&descColor=9CA3AF&fontFamily=Inter" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=4000&pause=1500&color=818CF8&center=true&vCenter=true&width=560&lines=Designing+and+shipping+production+AI+systems;LLM+agents+%C2%B7+RAG+pipelines+%C2%B7+applied+ML;Full-stack+engineering+with+an+AI-first+lens" alt="typing" />
+<img src="./assets/hero-banner.svg" width="100%"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AI%20ENGINEER-0B0B0F?style=flat-square&color=6366F1" height="22"/>
-<img src="https://img.shields.io/badge/FULL%20STACK-0B0B0F?style=flat-square&color=6366F1" height="22"/>
-<img src="https://img.shields.io/badge/ML%20%2F%20GENAI-0B0B0F?style=flat-square&color=6366F1" height="22"/>
-<img src="https://img.shields.io/badge/AI%20SECURITY-0B0B0F?style=flat-square&color=6366F1" height="22"/>
+# Ajinth Kumar
+
+<sub><b>AI ENGINEER</b> &nbsp;·&nbsp; <b>FULL STACK DEVELOPER</b> &nbsp;·&nbsp; <b>MACHINE LEARNING ENGINEER</b></sub>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=4000&pause=1500&color=818CF8&center=true&vCenter=true&width=580&lines=Designing+and+shipping+production+AI+systems;LLM+agents+%C2%B7+RAG+pipelines+%C2%B7+applied+ML;Full-stack+engineering+with+an+AI-first+lens" alt="typing" />
 
 <br/><br/>
 
@@ -34,9 +41,7 @@
 </div>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6366F1&height=1&section=header" width="100%"/>
-
+<img src="./assets/divider.svg" width="100%"/>
 <br/>
 
 ## Overview
@@ -47,8 +52,10 @@ I build AI systems end to end — from model and pipeline design through to the 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6366F1&height=1&section=header" width="100%"/>
+<img src="./assets/stat-strip.svg" width="100%"/>
 
+<br/>
+<img src="./assets/divider.svg" width="100%"/>
 <br/>
 
 ## Stack
@@ -66,8 +73,12 @@ I build AI systems end to end — from model and pipeline design through to the 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6366F1&height=1&section=header" width="100%"/>
+<div align="center">
+<img src="./assets/skills-radar.svg" width="420"/>
+</div>
 
+<br/>
+<img src="./assets/divider.svg" width="100%"/>
 <br/>
 
 ## Projects
@@ -124,9 +135,7 @@ I build AI systems end to end — from model and pipeline design through to the 
 </table>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6366F1&height=1&section=header" width="100%"/>
-
+<img src="./assets/divider.svg" width="100%"/>
 <br/>
 
 ## Roadmap
@@ -146,9 +155,7 @@ graph LR
 ```
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=6366F1&height=1&section=header" width="100%"/>
-
+<img src="./assets/divider.svg" width="100%"/>
 <br/>
 
 ## Certifications
@@ -165,6 +172,6 @@ graph LR
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:0B0B0F&height=90" width="100%"/>
+<img src="./assets/hero-banner.svg" width="100%"/>
 
 </div>
