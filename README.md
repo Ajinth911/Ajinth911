@@ -21,8 +21,6 @@
 
 ## 🧠 &nbsp;`SYSTEM.BOOT` — About This Unit
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/matiassingers/goodreads-badges/master/generated/rating-4.5.svg" alt="placeholder-decorative" style="display:none;">
-
 ```yaml
 > ACCESSING PROFILE CORE...
 > IDENTITY VERIFIED
@@ -233,6 +231,15 @@ Image Synthesis · Modern Frontend
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinth911&layout=compact&theme=chartreuse-dark&bg_color=050505&title_color=00F5FF&text_color=FFFFFF&border_color=0088FF&hide_border=false" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajinth911&theme=react-dark&bg_color=050505&color=00F5FF&line=A020F0&point=FF7A00&hide_border=true" width="49%"/>
 
+<br/>
+
+<sub>⚠ If the stats/top-langs cards above show broken — that's a known intermittent outage on the shared public instance, not your README. Reliable fallback badges below always work:</sub>
+
+<br/>
+
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ajinth911&label=REPOS&query=public_repos&color=00F5FF&style=for-the-badge&labelColor=050505)
+![Followers](https://img.shields.io/github/followers/ajinth911?label=FOLLOWERS&style=for-the-badge&color=A020F0&labelColor=050505&logo=github)
+
 </div>
 
 <div align="center">
@@ -240,6 +247,8 @@ Image Synthesis · Modern Frontend
 ### 🏆 Trophy Case
 
 <img src="https://github-profile-trophy.vercel.app/?username=ajinth911&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Stars,Repositories,Followers,PullRequest,Issues,MultipleYears"/>
+
+<sub>⚠ This card runs on a shared free-tier instance that the maintainer sometimes pauses under load. If it's broken, try again later, or swap the URL host to a community mirror such as <code>github-profile-trophy-winning.vercel.app</code> (same query params), or self-host your own copy from <a href="https://github.com/ryo-ma/github-profile-trophy">ryo-ma/github-profile-trophy</a>.</sub>
 
 </div>
 
