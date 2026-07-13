@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="./assets/hero-banner.svg" width="100%"/>
+<img src="./hero-banner.svg" width="100%"/>
 
 <br/><br/>
 
@@ -41,7 +41,7 @@
 </div>
 
 <br/>
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 <br/>
 
 ## Overview
@@ -52,10 +52,10 @@ I build AI systems end to end — from model and pipeline design through to the 
 
 <br/>
 
-<img src="./assets/stat-strip.svg" width="100%"/>
+<img src="./stat-strip.svg" width="100%"/>
 
 <br/>
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 <br/>
 
 ## Stack
@@ -74,11 +74,11 @@ I build AI systems end to end — from model and pipeline design through to the 
 <br/>
 
 <div align="center">
-<img src="./assets/skills-radar.svg" width="420"/>
+<img src="./skills-radar.svg" width="420"/>
 </div>
 
 <br/>
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 <br/>
 
 ## Projects
@@ -135,7 +135,7 @@ I build AI systems end to end — from model and pipeline design through to the 
 </table>
 
 <br/>
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 <br/>
 
 ## Roadmap
@@ -155,7 +155,7 @@ graph LR
 ```
 
 <br/>
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 <br/>
 
 ## Certifications
@@ -172,6 +172,6 @@ graph LR
 
 <br/><br/>
 
-<img src="./assets/hero-banner.svg" width="100%"/>
+<img src="./hero-banner.svg" width="100%"/>
 
 </div>
