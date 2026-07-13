@@ -1,0 +1,57 @@
+<svg width="1200" height="130" viewBox="0 0 1200 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C5CFC"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="vline" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#7C5CFC" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#7C5CFC" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#7C5CFC" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3"/></filter>
+  </defs>
+
+  <rect width="1200" height="130" rx="12" fill="#0B0714"/>
+  <rect width="1200" height="130" rx="12" fill="none" stroke="#7C5CFC" stroke-opacity="0.28"/>
+
+  <rect x="300" y="20" width="1.5" height="90" fill="url(#vline)"/>
+  <rect x="600" y="20" width="1.5" height="90" fill="url(#vline)"/>
+  <rect x="900" y="20" width="1.5" height="90" fill="url(#vline)"/>
+
+  <g>
+    <rect x="120" y="38" width="0" height="4" rx="2" fill="url(#bar)" filter="url(#glow)">
+      <animate attributeName="width" values="0;36" dur="1.1s" begin="0.1s" fill="freeze"/>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="120" y="76" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#E5E7EB">6+</text>
+    <text x="120" y="98" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#9CA3AF">Shipped AI Products</text>
+  </g>
+
+  <g>
+    <rect x="420" y="38" width="0" height="4" rx="2" fill="url(#bar)" filter="url(#glow)">
+      <animate attributeName="width" values="0;36" dur="1.1s" begin="0.3s" fill="freeze"/>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" begin="1.4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="420" y="76" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#E5E7EB">5</text>
+    <text x="420" y="98" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#9CA3AF">AI Domains Covered</text>
+  </g>
+
+  <g>
+    <rect x="720" y="38" width="0" height="4" rx="2" fill="url(#bar)" filter="url(#glow)">
+      <animate attributeName="width" values="0;36" dur="1.1s" begin="0.5s" fill="freeze"/>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" begin="1.6s" repeatCount="indefinite"/>
+    </rect>
+    <text x="720" y="76" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#E5E7EB">20+</text>
+    <text x="720" y="98" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#9CA3AF">Frameworks &amp; Tools</text>
+  </g>
+
+  <g>
+    <rect x="1020" y="38" width="0" height="4" rx="2" fill="url(#bar)" filter="url(#glow)">
+      <animate attributeName="width" values="0;36" dur="1.1s" begin="0.7s" fill="freeze"/>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" begin="1.8s" repeatCount="indefinite"/>
+    </rect>
+    <text x="1020" y="76" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#E5E7EB">1</text>
+    <text x="1020" y="98" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#9CA3AF">AI-First Engineering Mindset</text>
+  </g>
+</svg>

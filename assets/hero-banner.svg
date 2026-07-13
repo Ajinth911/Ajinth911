@@ -1,0 +1,118 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05050A"/>
+      <stop offset="55%" stop-color="#0B0714"/>
+      <stop offset="100%" stop-color="#0F0A1F"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7C5CFC" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#7C5CFC" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.40"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="frameLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C5CFC" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#22D3EE" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#7C5CFC" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="48%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.10"/>
+      <stop offset="52%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <filter id="blurA" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="50"/></filter>
+    <filter id="blurB" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="1.5"/></filter>
+    <clipPath id="clip"><rect width="1200" height="300"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+
+    <circle cx="170" cy="70" r="180" fill="url(#glow1)" filter="url(#blurA)">
+      <animate attributeName="r" values="170;200;170" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1040" cy="230" r="150" fill="url(#glow2)" filter="url(#blurA)">
+      <animate attributeName="r" values="140;170;140" dur="8s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- diagonal shimmer sweep -->
+    <rect x="-400" y="0" width="400" height="300" fill="url(#shine)">
+      <animateTransform attributeName="transform" type="translate" values="-200,0;1600,0" dur="5s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- ===== floating isometric 3D cubes ===== -->
+    <!-- cube 1 : indigo -->
+    <g transform="translate(150,95)">
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0,0;0,-10;0,0" dur="3.2s" begin="0s" repeatCount="indefinite"/>
+      <polygon points="0,-40 34,-21 34,21 0,40 -34,21 -34,-21" fill="none"/>
+      <polygon points="0,-40 34,-21 0,-2 -34,-21" fill="#A5B4FC"/>
+      <polygon points="-34,-21 0,-2 0,40 -34,21" fill="#6366F1"/>
+      <polygon points="34,-21 34,21 0,40 0,-2" fill="#4338CA"/>
+    </g>
+
+    <!-- cube 2 : cyan -->
+    <g transform="translate(345,165)">
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0,0;0,-8;0,0" dur="2.8s" begin="0.4s" repeatCount="indefinite"/>
+      <polygon points="0,-30 26,-16 0,-2 -26,-16" fill="#A5F3FC"/>
+      <polygon points="-26,-16 0,-2 0,30 -26,16" fill="#22D3EE"/>
+      <polygon points="26,-16 26,16 0,30 0,-2" fill="#0E7490"/>
+    </g>
+
+    <!-- cube 3 : violet -->
+    <g transform="translate(560,65)">
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0,0;0,-9;0,0" dur="3.6s" begin="0.8s" repeatCount="indefinite"/>
+      <polygon points="0,-32 28,-17 0,-2 -28,-17" fill="#DDD6FE"/>
+      <polygon points="-28,-17 0,-2 0,32 -28,17" fill="#8B5CF6"/>
+      <polygon points="28,-17 28,17 0,32 0,-2" fill="#5B21B6"/>
+    </g>
+
+    <!-- cube 4 : amber accent -->
+    <g transform="translate(800,170)">
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0,0;0,-7;0,0" dur="3s" begin="0.2s" repeatCount="indefinite"/>
+      <polygon points="0,-26 22,-14 0,-2 -22,-14" fill="#FDE68A"/>
+      <polygon points="-22,-14 0,-2 0,26 -22,14" fill="#F59E0B"/>
+      <polygon points="22,-14 22,14 0,26 0,-2" fill="#B45309"/>
+    </g>
+
+    <!-- cube 5 : indigo, larger, far right -->
+    <g transform="translate(1010,100)">
+      <animateTransform attributeName="transform" type="translate" additive="sum" values="0,0;0,-11;0,0" dur="3.4s" begin="0.6s" repeatCount="indefinite"/>
+      <polygon points="0,-36 30,-19 0,-2 -30,-19" fill="#BAE6FD"/>
+      <polygon points="-30,-19 0,-2 0,36 -30,19" fill="#38BDF8"/>
+      <polygon points="30,-19 30,19 0,36 0,-2" fill="#0369A1"/>
+    </g>
+
+    <!-- connecting network lines between cubes, pulsing -->
+    <g stroke="#7C5CFC" stroke-width="1" opacity="0.35" fill="none">
+      <line x1="184" y1="95" x2="345" y2="165">
+        <animate attributeName="opacity" values="0.15;0.5;0.15" dur="4s" repeatCount="indefinite"/>
+      </line>
+      <line x1="371" y1="165" x2="560" y2="65">
+        <animate attributeName="opacity" values="0.5;0.15;0.5" dur="4s" repeatCount="indefinite"/>
+      </line>
+      <line x1="588" y1="65" x2="800" y2="170">
+        <animate attributeName="opacity" values="0.15;0.5;0.15" dur="5s" repeatCount="indefinite"/>
+      </line>
+      <line x1="822" y1="170" x2="1010" y2="100">
+        <animate attributeName="opacity" values="0.5;0.15;0.5" dur="5s" repeatCount="indefinite"/>
+      </line>
+    </g>
+
+    <g fill="#A5B4FC" filter="url(#blurB)">
+      <circle cx="1108" cy="60" r="2.5"/>
+      <circle cx="70" cy="230" r="2.5"/>
+    </g>
+
+    <rect x="0" y="0" width="1200" height="2" fill="url(#frameLine)"/>
+    <rect x="0" y="298" width="1200" height="2" fill="url(#frameLine)"/>
+  </g>
+</svg>
