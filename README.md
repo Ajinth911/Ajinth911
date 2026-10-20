@@ -19,7 +19,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:0088FF&height=2&width=100%"/>
 
-## 🧠 &nbsp;`SYSTEM.BOOT` — About This Unit
+##  &nbsp;`SYSTEM.BOOT` — About This Unit
 
 ```yaml
 > ACCESSING PROFILE CORE...
@@ -55,7 +55,7 @@ status:           [ ONLINE ] — accepting new missions
 
 <div align="center">
 
-| 🎯 CURRENT MISSION | 📡 RESEARCH FOCUS | 🧬 LEARNING ROADMAP |
+|  CURRENT MISSION |  RESEARCH FOCUS |  LEARNING ROADMAP |
 |:---:|:---:|:---:|
 | Building autonomous AI-driven products | LLM Agents · RAG · Multimodal AI | Advanced Reinforcement Learning |
 | Hardening SOC automation pipelines | Speech Synthesis & Voice Cloning | Distributed Systems at Scale |
@@ -80,7 +80,7 @@ status:           [ ONLINE ] — accepting new missions
 
 <br/>
 
-## ⚙️ &nbsp;`SKILL_MATRIX` — Loaded Modules
+##  &nbsp;`SKILL_MATRIX` — Loaded Modules
 
 <div align="center">
 
@@ -142,7 +142,7 @@ status:           [ ONLINE ] — accepting new missions
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:00F5FF&height=2&width=100%"/>
 
-## 🗂️ &nbsp;`PROJECT_ARCHIVE` — Deployed Builds
+##  &nbsp;`PROJECT_ARCHIVE` — Deployed Builds
 
 <table width="100%">
 <tr>
@@ -158,7 +158,7 @@ Speech Recognition · Speech Synthesis · Multilingual AI · Immersive Interface
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ SentinelAI
+###  SentinelAI
 **Autonomous Cyber Security SOC**
 
 Threat Detection · AI Incident Response · MITRE Mapping · Attack Intelligence
@@ -170,7 +170,7 @@ Threat Detection · AI Incident Response · MITRE Mapping · Attack Intelligence
 <tr>
 <td width="50%" valign="top">
 
-### 🏠 Stydes
+###  Stydes
 **AI House Planner**
 
 Computer Vision · Blueprint Generation · Interior AI
@@ -180,7 +180,7 @@ Computer Vision · Blueprint Generation · Interior AI
 </td>
 <td width="50%" valign="top">
 
-### 💼 StyJobs
+###  StyJobs
 **Career Intelligence Platform**
 
 ATS · Resume AI · Interview AI · CareerScore
@@ -192,7 +192,7 @@ ATS · Resume AI · Interview AI · CareerScore
 <tr>
 <td width="50%" valign="top">
 
-### 📞 AI Calling Agent
+###  AI Calling Agent
 **Human-like AI Calls**
 
 Voice Cloning · CRM Automation · Sentiment Analysis · Speech AI
@@ -202,7 +202,7 @@ Voice Cloning · CRM Automation · Sentiment Analysis · Speech AI
 </td>
 <td width="50%" valign="top">
 
-### 🖼️ AI Image Generator
+### AI Image Generator
 **Generative AI Studio**
 
 Image Synthesis · Modern Frontend
@@ -244,7 +244,7 @@ Image Synthesis · Modern Frontend
 
 <div align="center">
 
-### 🏆 Trophy Case
+###  Trophy Case
 
 <img src="https://github-profile-trophy.vercel.app/?username=ajinth911&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Stars,Repositories,Followers,PullRequest,Issues,MultipleYears"/>
 
@@ -254,7 +254,7 @@ Image Synthesis · Modern Frontend
 
 <div align="center">
 
-### 🐍 Contribution Feed — Neural Snake
+###  Contribution Feed — Neural Snake
 
 <img src="https://raw.githubusercontent.com/ajinth911/ajinth911/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
@@ -266,13 +266,13 @@ Image Synthesis · Modern Frontend
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,100:FF7A00&height=2&width=100%"/>
 
-## 🧩 &nbsp;`EXTENDED_MODULES`
+##  &nbsp;`EXTENDED_MODULES`
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
 
-**🎖️ Achievements**
+** Achievements**
 - Built & deployed multiple production AI systems
 - Autonomous SOC pipeline in active development
 - Multilingual voice AI shipped end-to-end
@@ -280,7 +280,7 @@ Image Synthesis · Modern Frontend
 </td>
 <td width="33%" valign="top">
 
-**🌐 Open Source**
+**Open Source**
 - Contributing to AI tooling & agent frameworks
 - Sharing experiments & utilities publicly
 - Open to collaboration on autonomous systems
@@ -306,7 +306,7 @@ Image Synthesis · Modern Frontend
 
 <br/>
 
-## 🖥️ &nbsp;`CONTACT_CONSOLE` — Establish Uplink
+##  &nbsp;`CONTACT_CONSOLE` — Establish Uplink
 
 <div align="center">
 
